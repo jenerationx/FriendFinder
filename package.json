@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/jenerationx/FriendFinder/issues"
   },
-  "homepage": "https://github.com/jenerationx/FriendFinder#readme"
+  "homepage": "https://github.com/jenerationx/FriendFinder#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
