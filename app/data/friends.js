@@ -32,8 +32,8 @@ var friends = [{
   ]
 },
 {
-  name: "Mulan",
-  photo: "https://en.wikipedia.org/wiki/Mulan_(Disney_character)#/media/File:Mulan_disney.png",
+  name: "Rapunzel",
+  photo: "https://media.giphy.com/media/4RQGIZFU20sYE/giphy.gif",
   scores: [
     3,
     3,
@@ -49,7 +49,7 @@ var friends = [{
 },
 {
   name: "Cinderella",
-  photo: "https://en.wikipedia.org/wiki/Cinderella_(Disney_character)#/media/File:Cinderella_disney.png",
+  photo: "https://media.giphy.com/media/RLVHPJJv7jY1q/giphy.gif",
   scores: [
     4,
     4,
@@ -65,7 +65,7 @@ var friends = [{
 },
 {
   name: "Jasmine",
-  photo: "https://en.wikipedia.org/wiki/Princess_Jasmine#/media/File:Princess_Jasmine_disney.png",
+  photo: "https://media.giphy.com/media/5LE92W2OK3wXK/giphy.gif",
   scores: [
     5,
     5,
@@ -78,6 +78,23 @@ var friends = [{
     5,
     5
   ]
-}
+},
+{
+  name: "Belle",
+  photo: "https://media.giphy.com/media/Tk7EcLXySXAVq/giphy.gif",
+  scores: [
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6,
+    6
+  ]
+},
+
 ]
 module.exports = friends;
