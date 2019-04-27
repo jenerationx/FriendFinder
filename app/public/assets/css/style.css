@@ -1,0 +1,18 @@
+body {
+    background: rgb(242, 109, 164);
+    background-image: url("../images/princess_background.png");
+}
+.jumbotron, .card {
+    background-color: rgb(243, 222, 237);
+    margin-top: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(242,109,164);
+}
+a, p, .btn {
+  color: rgb(243, 222, 237);
+}
+a:hover {
+            color: white;
+            text-decoration: none;
+        }
+
