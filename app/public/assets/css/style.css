@@ -15,4 +15,9 @@ a:hover {
             color: white;
             text-decoration: none;
         }
-
+select{
+    color: rgb(242, 109, 164)
+}
+option {
+    color: rgb(242, 109, 164)
+}
